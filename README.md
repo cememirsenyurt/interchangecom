@@ -7,13 +7,14 @@ ER Model:
 [Interchange-ER-Model.pdf](https://github.com/cememirsenyurt/interchangecomPostgres/files/12811988/Interchange-ER-Model.pdf)
 
 Query Descriptions:
+[Queries1.pdf](https://github.com/cememirsenyurt/interchangecom/files/12812313/Queries1.pdf)
 
 For Postgres:
-[Queries.pdf](https://github.com/cememirsenyurt/interchangecomPostgres/files/12812000/Queries.pdf)
+[Uploading Queries1.pdf…]()
 
 For Cassandra:
-[Homework Assignment #2.docx.pdf](https://github.com/cememirsenyurt/interchangecom/files/12812308/Homework.Assignment.2.docx.pdf)
+[Queries2.docx.pdf](https://github.com/cememirsenyurt/interchangecom/files/12812315/Queries2.docx.pdf)
 
 For MongoDB:
-[Homework 3.pdf](https://github.com/cememirsenyurt/interchangecom/files/12812306/Homework.3.pdf)
+[Queries3.pdf](https://github.com/cememirsenyurt/interchangecom/files/12812319/Queries3.pdf)
 
