@@ -22,3 +22,6 @@ For Couchbase:
 
 For Neo4j: 
 [Queries5.pdf](https://github.com/cememirsenyurt/interchangecom/files/12812399/Queries5.pdf)
+
+For Spark:
+[Queries6.docx.pdf](https://github.com/cememirsenyurt/interchangecom/files/12812440/Queries6.docx.pdf)
