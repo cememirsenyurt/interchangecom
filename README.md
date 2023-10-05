@@ -17,3 +17,5 @@ For Cassandra:
 For MongoDB:
 [Queries3.pdf](https://github.com/cememirsenyurt/interchangecom/files/12812319/Queries3.pdf)
 
+For Couchbase:
+[Queries4.pdf](https://github.com/cememirsenyurt/interchangecom/files/12812332/Queries4.pdf)
